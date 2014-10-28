@@ -16,16 +16,16 @@
 		<div class="title">
 				<h1>Jonathan Fu</h1>
 				<h4>Web Developer for Hire</h4>
-			<div class="navbar">
-				<ul>
-					<li style="border-bottom-left-radius: 5px; border-top-left-radius: 5px;">
-						<a href="javascript:void(0)" onclick="DoHome();">Home</a>
-					</li>
-					<li><a href="javascript:void(0)" onclick="DoResume();">Resume</a></li>
-					<li style="border-right:none;"><a href="javascript:void(0)" onclick="DoPortfolio();">Portfolio</a></li>
-					<!-- <li ><a href="javascript:void(0)" onclick="DoContact();">Contact</a></li> -->
-				</ul>
-			</div>
+		</div>
+		<div class="navbar">
+			<ul>
+				<li style="border-bottom-left-radius: 5px; border-top-left-radius: 5px;">
+					<a href="javascript:void(0)" onclick="DoHome();">Home</a>
+				</li>
+				<li><a href="javascript:void(0)" onclick="DoResume();">Resume</a></li>
+				<li style="border-right:none;"><a href="javascript:void(0)" onclick="DoPortfolio();">Portfolio</a></li>
+				<!-- <li ><a href="javascript:void(0)" onclick="DoContact();">Contact</a></li> -->
+			</ul>
 		</div>
 	</div>
 	<div class="content">
